@@ -2,7 +2,7 @@
 ## I am Re:Destiny of the Rain, or you could simply call me Re-DoR or RD.
 ##   >> A freshman from USTC, major in Artificial Intelligence
 ##   >> Know a little in C, C++, Python (still learning more)
-##   >> Wanting to develop some small tools for convinience
+##   >> Wanting to develop some small tools for convenience
 ##   >> Interested in Math, a retired MO participant (with no honors)
 # It's my pleasure to meet you here!
 
